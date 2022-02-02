@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/goktug_cy" target="blank"><img src="https://img.shields.io/twitter/follow/goktug_cy?logo=twitter&style=for-the-badge" alt="goktug_cy" /></a> </p>
 
-- 📝 I regularly write articles on [https://goktugceyhan.com](https://goktugceyhan.com)
+- 📝 I regularly write articles on [https://goktugceyhan.dev](https://goktugceyhan.dev)
 
 - 📫 How to reach me **goktugceyhan@gmail.com**
 
