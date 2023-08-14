@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/08/77/7d/08777d173d772014fdb7d0e6b8a30b08.gif"  />
 
 ###
