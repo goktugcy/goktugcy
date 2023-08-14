@@ -78,6 +78,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/goktugcy/goktugcy/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/goktugcy/goktugcy/blob/output/github-contribution-grid-snake.svg)
 
 ###
