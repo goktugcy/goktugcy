@@ -76,7 +76,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 ![Snake animation](https://github.com/goktugcy/goktugcy/blob/output/github-contribution-grid-snake.svg)
 
