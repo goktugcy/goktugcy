@@ -1,17 +1,17 @@
 <h3 align="center">Hi 👋, I'm Göktuğ<br>A passionate backend developer from Turkey</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goktugcy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=goktugcy&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <br clear="both">
 
 <img align="right" height="130" src="https://i.pinimg.com/originals/08/77/7d/08777d173d772014fdb7d0e6b8a30b08.gif"  />
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goktugcy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=goktugcy&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
 
