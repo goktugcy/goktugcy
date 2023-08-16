@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm Göktuğ<br>A passionate backend developer from Turkey</h3>
+<h2 align="center">Hi 👋, I'm Göktuğ<br>A passionate backend developer from Turkey</h2>
 
 ###
 
