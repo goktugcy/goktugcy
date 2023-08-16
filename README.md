@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h3 align="center">Hi 👋, I'm Göktuğ<br>A passionate backend developer from Turkey</h3>
 
