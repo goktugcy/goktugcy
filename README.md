@@ -17,6 +17,7 @@
 ###
 
 <div align="left">
+  <h6>Languages & Frameworks</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
@@ -31,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="25" alt="laravel logo"  />
   <img width="12" />
+  <br>
+  <h6> Databases & tools </h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
