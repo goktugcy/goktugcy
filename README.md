@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="180" src="https://i.makeagif.com/media/9-14-2016/6xax4x.gif"  />
+<img align="right" height="200" src="https://i.makeagif.com/media/9-14-2016/6xax4x.gif"  />
 
 ###
 
