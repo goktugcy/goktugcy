@@ -8,7 +8,7 @@
 ```javascript
 const goktugcy = {
     experience: "4 years",
-    askMeAbout: "Backend Developer",
+    current_position: "Backend Developer",
     technologies:{
         Backend: ["NodeJS", "Express", "NestJS", "Hono", "PHP",  "Laravel"],
         Frontend: ["NextJS", "CSS3"],
