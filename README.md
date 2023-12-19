@@ -4,9 +4,9 @@
 ###
 
 ###
-
+<div align="center">
 <img align="right" height="200" src="https://i.makeagif.com/media/9-14-2016/6xax4x.gif"  />
-
+</div>
 ###
 
 <br clear="both">
