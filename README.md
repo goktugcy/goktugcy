@@ -8,12 +8,12 @@
 ```javascript
 const goktugcy = {
     pronouns: "He" | "Him",
-    askMeAbout: "backend dev",
+    askMeAbout: "Backend Developer",
     technologies:{
-        backEnd: ["NodeJS", "NestJS" "Express", "Hono", "PHP",  "Laravel"],
-        fronEnd: ["NextJS"],
-        database: ["MongoDB","MySQL", "PostgreSQL", "Supabase"],
-        serverless: ["Cloudflare Worker", "AWS Lambda"],
+        Backend: ["NodeJS", "Express", "NestJS", "Hono", "PHP",  "Laravel"],
+        Frontend: ["NextJS", "CSS3"],
+        Database: ["MongoDB","MySQL", "PostgreSQL", "Supabase"],
+        Serverless: ["Cloudflare Worker", "AWS Lambda"],
     }
 }
 ```
