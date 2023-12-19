@@ -7,7 +7,7 @@
 
 ```javascript
 const goktugcy = {
-    pronouns: "He" | "Him",
+    experience: "4 years",
     askMeAbout: "Backend Developer",
     technologies:{
         Backend: ["NodeJS", "Express", "NestJS", "Hono", "PHP",  "Laravel"],
