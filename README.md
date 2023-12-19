@@ -4,17 +4,17 @@
 ###
 
 <br clear="both">
+###
+
+<img align="right" height="200" src="https://i.makeagif.com/media/9-14-2016/6xax4x.gif"  />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goktugcy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=goktugcy&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://i.makeagif.com/media/9-14-2016/6xax4x.gif"  />
-
-###
 
 <div align="left" style="height=1px!important">
   <h6>Languages & Frameworks</h6>
