@@ -3,7 +3,7 @@
 ## Backend Developer 👨‍💻
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/66/53/31/6653318bb022e7ca9339775eebd6987b.gif" width="50"> A little more about me...  
 
 ```javascript
 const goktugcy = {
