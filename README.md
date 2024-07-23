@@ -12,7 +12,7 @@ const goktugcy = {
     technologies:{
         Backend: ["NodeJS", "Express", "NestJS", "TypeScript", "PHP",  "Laravel"],
         Frontend: ["HTML", "CSS", "Tailwind", "Bootstrap"],
-        Database: ["MongoDB","MySQL", "PostgreSQL", "Supabase"],
+        Database: ["MongoDB", "Redis", "MySQL", "PostgreSQL", "Supabase"],
         Serverless: ["Cloudflare Worker", "AWS Lambda"],
     }
 }
