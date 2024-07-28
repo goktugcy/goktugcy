@@ -11,7 +11,7 @@ const goktugcy = {
     current_position: "Backend Developer",
     technologies:{
         Backend: ["NodeJS", "Express", "NestJS", "TypeScript", "PHP",  "Laravel"],
-        Frontend: ["HTML", "CSS", "Tailwind", "Bootstrap"],
+        Frontend: ["Nuxt", "Next", "Tailwind", "Bootstrap"],
         Database: ["MongoDB", "Redis", "MySQL", "PostgreSQL", "Supabase"],
         Serverless: ["Cloudflare Worker", "AWS Lambda"],
     }
