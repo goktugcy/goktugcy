@@ -7,12 +7,12 @@
 
 ```javascript
 const goktugcy = {
-    experience: "4 years",
+    experience: "5 years",
     current_position: "Backend Developer",
     technologies:{
         Backend: ["NodeJS", "Express", "Hono", "Bun", "TypeScript", "PHP",  "Laravel"],
         Frontend: ["Nuxt", "Next", "Tailwind", "Bootstrap"],
-        Database: ["MongoDB", "Redis", "MySQL", "PostgreSQL", "Supabase"],
+        Database: ["MongoDB", "Redis", "MySQL", "PostgreSQL"],
         Serverless: ["Cloudflare Worker", "AWS Lambda"],
     }
 }
