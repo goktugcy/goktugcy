@@ -9,7 +9,7 @@ const goktugcy = {
     experience: "5 years",
     current_position: "Full Stack Developer",
     technologies:{
-        Backend: ["NodeJS", "Express", "Hono", "Bun", "TypeScript", "PHP",  "Laravel"],
+        Backend: ["NodeJS", "Express", "Hono", "Bun", "TypeScript", "PHP",  "Laravel", "Go"],
         Frontend: ["Nuxt", "Next", "Tailwind", "Bootstrap"],
         Database: ["MongoDB", "Redis", "MySQL", "PostgreSQL"],
         Serverless: ["Cloudflare Worker", "AWS Lambda"],
