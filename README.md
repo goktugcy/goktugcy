@@ -7,7 +7,7 @@
 ```javascript
 const goktugcy = {
     experience: "5 years",
-    current_position: "Backend Developer",
+    current_position: "Full Stack Developer",
     technologies:{
         Backend: ["NodeJS", "Express", "Hono", "Bun", "TypeScript", "PHP",  "Laravel"],
         Frontend: ["Nuxt", "Next", "Tailwind", "Bootstrap"],
